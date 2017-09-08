@@ -8,8 +8,8 @@ x@example.com (one-letter local-part)
 "very.(),:;<>[]\".VERY.\"very@\\ \"very\".unusual"@strange.example.com
 example-indeed@strange-example.com
 admin@mailserver1
-9842378126
-+9779842378126, 9779842378126
+9842312345
++9779842300000, 9779842309876
 #!$%&'*+-/=?^_`{}|~@example.org
 "()<>[]:,;@\\\"!#$%&'-/=?^_`{}| ~.a"@example.org
 " "@example.org (space between the quotes)
@@ -27,5 +27,5 @@ john..doe@example.com (double dot before @)
 example@localhost (sent from localhost)
 with caveat: Gmail lets this through, Email address#Local-part the dots altogether
 john.doe@example..com (double dot after @)
-hello 9842378126000 +977-9842378126 +977 9842378126 9779842378126 +977984237812600
-text +9119842378126 977 9842312345 hello 021 533108
+hello 9842378126000 +977-9842378145 +977 9842361028 9779842312345 +977984237812600
+text +9119999999999 977 9842312345 hello 021 555555
