@@ -13,7 +13,7 @@ with open("list.txt", 'r') as f:
 				print(line)
 
 with open("list.txt", 'r') as f:
-	phone = re.findall(r'\+\d{3}\s?0?\d{6,10}', f.read())
+	phone = re.findall(r'\+?\d{3}?\s?98[.-]?0?\d{0,10}', f.read())
 	with open("phone.txt", 'w+') as f:
 		for line in phone:
 			f.write(line+"\n")
